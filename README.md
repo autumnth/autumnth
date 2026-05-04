@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=B026FF&background=00000000&vCenter=true&multiline=true&width=750&height=100&lines=Hi,+I'm+tianvjinvsa;System.out.println(%22Hello+World%22)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=B026FF&background=00000000&vCenter=true&multiline=true&width=750&height=100&lines=Hi,+I'm+autumnth;System.out.println(%22Hello+World%22)" alt="Typing SVG" />
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 8px; border: 1px solid #B026FF;" alt="Cyberpunk Animation" />
@@ -79,7 +79,7 @@
 
 <div style="border-top: 1px solid #30363d; margin-top: 20px; padding-top: 10px;">
     <p align="center">
-        <samp>root@tianvjinvsa:~$ exit</samp>
+        <samp>root@autumnth:~$ exit</samp>
     </p>
    <p align="center">
         <a href="https://afdian.com/a/draven323">
@@ -87,7 +87,7 @@
         </a>
     </p>
     <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=tianvjinvsa&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
+        <img src="https://komarev.com/ghpvc/?username=autumnth&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
     </p> 
     
 </div>
