@@ -1,95 +1,124 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=B026FF&background=00000000&vCenter=true&multiline=true&width=750&height=100&lines=Hi,+I'm+autumnth;System.out.println(%22Hello+World%22)" alt="Typing SVG" />
-
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 8px; border: 1px solid #B026FF;" alt="Cyberpunk Animation" />
-</p>
-
-<table align="center" style="border:none">
-    <tr>
-        <td align="center" style="border:none">
-            <a href="mailto:tianvjinvsa@outlook.com">
-                <img src="https://img.shields.io/badge/Email-tianvjinvsa%40outlook.com-black?style=flat-square&logo=gmail&logoColor=white&color=2e003e" />
-            </a>
-        </td>
-        <td align="center" style="border:none">
-            <img src="https://img.shields.io/badge/Status-Java_Backend-black?style=flat-square&logo=openjdk&logoColor=white&color=4a0072" />
-        </td>
-        <td align="center" style="border:none">
-            <img src="https://img.shields.io/badge/Motto-Break_Things-black?style=flat-square&logo=hackthebox&logoColor=white&color=6a1b9a" />
-        </td>
-    </tr>
-</table>
-
-<!-- 4. ASCII 艺术字 Slogan -->
-<!-- 使用 pre 和 code 标签是为了防止 Markdown 自动压缩空格，导致字符画错位 -->
-<pre>
-<code style="color: #B026FF">
-  __  __                  _____         _   
- |  \/  |                |  ___|       | |  
- | .  . | _____   _____  | |_ __ _ ___| |_ 
- | |\/| |/ _ \ \ / / _ \ |  _/ _` / __| __|
- | |  | | (_) \ V /  __/ | || (_| \__ \ |_ 
- \_|  |_/\___/ \_/ \___| \_| \__,_|___/\__|
-                                             
-</code>
-</pre>
-
-<br/>
-
-<h3 align="center">⚡ <samp>Tech_Stack_Protocol</samp> ⚡</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,react,vue,mysql,redis,docker,linux,git&perline=10&theme=dark" />
-  </a>
-</p>
-
-<br/>
-
-
-<h3 align="center">🛠️ <samp>System_Properties</samp></h3>
-
-<table align="center" style="border:none">
-    <tr>
-        <td align="center" width="100" style="border:none">
-            <img src="https://img.shields.io/badge/OS-Linux-black?style=plastic&logo=linux&color=000000" />
-        </td>
-        <td align="center" width="100" style="border:none">
-             <img src="https://img.shields.io/badge/IDE-IntelliJ-black?style=plastic&logo=intellij-idea&color=000000" />
-        </td>
-        <td align="center" width="100" style="border:none">
-             <img src="https://img.shields.io/badge/Cloud-Aliyun-black?style=plastic&logo=alibaba-cloud&color=000000" />
-        </td>
-    </tr>
-     <tr>
-        <td align="center" width="100" style="border:none">
-            <img src="https://img.shields.io/badge/Container-Docker-black?style=plastic&logo=docker&color=000000" />
-        </td>
-        <td align="center" width="100" style="border:none">
-             <img src="https://img.shields.io/badge/Data-MySQL-black?style=plastic&logo=mysql&color=000000" />
-        </td>
-        <td align="center" width="100" style="border:none">
-             <img src="https://img.shields.io/badge/Power-100%25-black?style=plastic&logo=electricity&color=000000" />
-        </td>
-    </tr>
-</table>
-
-<br/>
-
-<div style="border-top: 1px solid #30363d; margin-top: 20px; padding-top: 10px;">
-    <p align="center">
-        <samp>root@autumnth:~$ exit</samp>
-    </p>
-   <p align="center">
-        <a href="https://afdian.com/a/draven323">
-            <img src="https://img.shields.io/badge/Support-爱发电-B026FF?style=flat-square&logo=github-sponsors&logoColor=white" alt="Sponsor on Afdian" />
-        </a>
-    </p>
-    <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=autumnth&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
-    </p> 
-    
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=autumnth&fontAlign=50&fontAlignY=40&desc=Developer%20%7C%20Builder%20%7C%20Continuous%20Learner&descAlign=50&descAlignY=62&animation=fadeIn" width="100%" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&lines=Hi%2C+I%27m+autumnth;Building+useful+things+with+code;Learning+deeply%2C+improving+constantly;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/autumnth">
+    <img src="https://img.shields.io/badge/GitHub-autumnth-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:tianvjinvsa@outlook.com">
+    <img src="https://img.shields.io/badge/Email-tianvjinvsa%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=autumnth&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</div>
+
+---
+
+## About Me
+
+I am **autumnth**, a developer focused on building practical, maintainable, and thoughtful software.  
+This GitHub profile is where I publish projects, document learning, explore ideas, and continuously improve through real work.
+
+## Professional Snapshot
+
+| Item | Details |
+|---|---|
+| Name | autumnth |
+| Role | Developer / Learner / Builder |
+| Email | tianvjinvsa@outlook.com |
+| GitHub | [github.com/autumnth](https://github.com/autumnth) |
+| Working Style | Practical, structured, detail-oriented |
+| Motto | Build with purpose. Learn with consistency. |
+
+## Focus Areas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maintainable%20Code-2EA043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Documentation-0969DA?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Continuous%20Learning-8250DF?style=for-the-badge&logo=bookstack&logoColor=white" />
+</div>
+
+## Current Direction
+
+- Building practical projects and useful tools
+- Improving code quality and engineering habits
+- Documenting technical exploration and learning progress
+- Turning ideas into maintainable, real-world implementations
+
+<details>
+  <summary><b>Professional Notes</b></summary>
+
+  - I prefer practical solutions over unnecessary complexity.
+  - I value readable code, thoughtful structure, and maintainability.
+  - I treat GitHub as both a project portfolio and a learning archive.
+  - I believe steady iteration is more valuable than short-term intensity.
+
+</details>
+
+## GitHub Insights
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=autumnth&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=autumnth&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=autumnth&theme=github-dark-blue&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=autumnth&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=autumnth&theme=github_dark" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=autumnth&theme=github_dark" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=autumnth&theme=github_dark&utcOffset=8" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=autumnth&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+</div>
+
+## Achievements
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=autumnth&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+</div>
+
+## Contribution Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/autumnth/autumnth/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/autumnth/autumnth/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/autumnth/autumnth/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+## Philosophy
+
+> Good software is not only about making things work.  
+> It is about making them clear, reliable, maintainable, and meaningful.
+
+## Contact
+
+<div align="center">
+  <a href="mailto:tianvjinvsa@outlook.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <a href="https://github.com/autumnth">
+    <img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient" width="100%" />
 </div>
