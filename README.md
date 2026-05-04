@@ -10,7 +10,7 @@
     <tr>
         <td align="center" style="border:none">
             <a href="mailto:tianvjinvsa@outlook.com">
-                <img src="https://img.shields.io/badge/Email-1727369245%40qq.com-black?style=flat-square&logo=gmail&logoColor=white&color=2e003e" />
+                <img src="https://img.shields.io/badge/Email-tianvjinvsa%40outlook.com-black?style=flat-square&logo=gmail&logoColor=white&color=2e003e" />
             </a>
         </td>
         <td align="center" style="border:none">
